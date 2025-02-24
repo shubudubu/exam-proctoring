@@ -1,6 +1,6 @@
-# exam-proctoring
+# AI-Powered Exam Proctoring System
 
-AI-Powered Exam Proctoring System
+
 
 Overview
 
