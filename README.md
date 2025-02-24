@@ -19,5 +19,5 @@ If more than one face is detected, the system raises an alert and closes the cam
 
 3. Face-antispoofing
 Used Yolov8 to train on a generated dataset.
-![Results](face-antispoofing/image.png)
+![Results](face-antispoofing/val_batch0_labels.jpg) 
 
